@@ -50,4 +50,4 @@ In conclusion, Rapid Recipe Routine is more than just a cooking app; it is a com
 ## Code
 
 ## Video
-[Click here to watch the video](RRR.mp4)
+https://github.com/NavyaMudunuri/RRR/blob/master/RRR.mp4
