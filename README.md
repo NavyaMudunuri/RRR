@@ -31,29 +31,21 @@ In conclusion, Rapid Recipe Routine is more than just a cooking app; it is a com
 
 ## Screenshots
 <br>
-<img src="Screenshot 2024-04-18 at 2.31.47 PM.png" alt="Screenshot -1" height="200">
+<img src="Screenshot/1.png" alt="Screenshot -1" height="200">
 <br>
-<img src="Screenshot 2024-04-18 at 2.31.47 PM.png" alt="Screenshot -1" height="200">
+<img src="Screenshot/2.png" alt="Screenshot -2" height="200">
 <br>
-<img src="Screenshot 2024-04-18 at 2.31.47 PM.png" alt="Screenshot -1" height="200">
+<img src="Screenshot/3.png" alt="Screenshot -3" height="200">
 <br>
-<img src="Screenshot 2024-04-18 at 2.31.47 PM.png" alt="Screenshot -1" height="200">
+<img src="Screenshot/4.png" alt="Screenshot -4" height="200">
 <br>
-<img src="1.png" alt="Screenshot -1" height="200">
+<img src="Screenshot/5.png" alt="Screenshot -15" height="200">
 <br>
-<img src="2.png" alt="Screenshot -2" height="200">
+<img src="Screenshot/6.png" alt="Screenshot -6" height="200">
 <br>
-<img src="3.png" alt="Screenshot -3" height="200">
+<img src="Screenshot/7.png" alt="Screenshot -7" height="200">
 <br>
-<img src="4.png" alt="Screenshot -4" height="200">
-<br>
-<img src="5.png" alt="Screenshot -15" height="200">
-<br>
-<img src="6.png" alt="Screenshot -6" height="200">
-<br>
-<img src="7.png" alt="Screenshot -7" height="200">
-<br>
-<img src="8.png" alt="Screenshot -8" height="200">
+<img src="Screenshot/8.png" alt="Screenshot -8" height="200">
 
 ## Code
 
